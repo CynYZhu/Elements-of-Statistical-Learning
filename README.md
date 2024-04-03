@@ -1,0 +1,1 @@
+This repository contains comprehensive study notes covering essential topics in Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI). Aimed at students, researchers, and enthusiasts alike, these notes delve into the theoretical foundations, practical applications, and recent advancements in these dynamic fields.
